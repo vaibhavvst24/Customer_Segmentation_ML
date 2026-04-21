@@ -1,7 +1,7 @@
 # 🧠 Customer Segmentation using RFM & Behavioral Analysis
 
 # 🚀 Customer Segmentation App
-[![Streamlit App](https://customersegmentationml-jgqdhdynktg9efdxtuctcq.streamlit.app/)
+[![Streamlit App](https://customersegmentationml-jgqdhdynktg9efdxtuctcq.streamlit.app)
 
 ## 📌 Project Overview
 
